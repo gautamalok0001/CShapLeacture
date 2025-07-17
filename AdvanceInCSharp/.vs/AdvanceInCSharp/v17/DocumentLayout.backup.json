@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Development_Practice\\Learning\\Parallel_Programming_In_C#\\AdvanceInCSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B729B43-4BF4-4F4B-8AF9-B633297466D1}|ParallelProgramming\\ParallelProgramming.csproj|d:\\development_practice\\learning\\parallel_programming_in_c#\\advanceincsharp\\parallelprogramming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B729B43-4BF4-4F4B-8AF9-B633297466D1}|ParallelProgramming\\ParallelProgramming.csproj|solutionrelative:parallelprogramming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B729B43-4BF4-4F4B-8AF9-B633297466D1}|ParallelProgramming\\ParallelProgramming.csproj|d:\\development_practice\\learning\\parallel_programming_in_c#\\advanceincsharp\\parallelprogramming\\oopsconcept\\polymorphism\\classoverride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B729B43-4BF4-4F4B-8AF9-B633297466D1}|ParallelProgramming\\ParallelProgramming.csproj|solutionrelative:parallelprogramming\\oopsconcept\\polymorphism\\classoverride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B729B43-4BF4-4F4B-8AF9-B633297466D1}|ParallelProgramming\\ParallelProgramming.csproj|d:\\development_practice\\learning\\parallel_programming_in_c#\\advanceincsharp\\parallelprogramming\\oopsconcept\\operartoroverload\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B729B43-4BF4-4F4B-8AF9-B633297466D1}|ParallelProgramming\\ParallelProgramming.csproj|solutionrelative:parallelprogramming\\oopsconcept\\operartoroverload\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B729B43-4BF4-4F4B-8AF9-B633297466D1}|ParallelProgramming\\ParallelProgramming.csproj|d:\\development_practice\\learning\\parallel_programming_in_c#\\advanceincsharp\\parallelprogramming\\oopsconcept\\classtypes\\typesofclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B729B43-4BF4-4F4B-8AF9-B633297466D1}|ParallelProgramming\\ParallelProgramming.csproj|solutionrelative:parallelprogramming\\oopsconcept\\classtypes\\typesofclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B729B43-4BF4-4F4B-8AF9-B633297466D1}|ParallelProgramming\\ParallelProgramming.csproj|d:\\development_practice\\learning\\parallel_programming_in_c#\\advanceincsharp\\parallelprogramming\\oopsconcept\\classtypes\\inttwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B729B43-4BF4-4F4B-8AF9-B633297466D1}|ParallelProgramming\\ParallelProgramming.csproj|solutionrelative:parallelprogramming\\oopsconcept\\classtypes\\inttwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B729B43-4BF4-4F4B-8AF9-B633297466D1}|ParallelProgramming\\ParallelProgramming.csproj|d:\\development_practice\\learning\\parallel_programming_in_c#\\advanceincsharp\\parallelprogramming\\oopsconcept\\classtypes\\intone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B729B43-4BF4-4F4B-8AF9-B633297466D1}|ParallelProgramming\\ParallelProgramming.csproj|solutionrelative:parallelprogramming\\oopsconcept\\classtypes\\intone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B729B43-4BF4-4F4B-8AF9-B633297466D1}|ParallelProgramming\\ParallelProgramming.csproj|d:\\development_practice\\learning\\parallel_programming_in_c#\\advanceincsharp\\parallelprogramming\\statement\\dictionarypractice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B729B43-4BF4-4F4B-8AF9-B633297466D1}|ParallelProgramming\\ParallelProgramming.csproj|solutionrelative:parallelprogramming\\statement\\dictionarypractice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B729B43-4BF4-4F4B-8AF9-B633297466D1}|ParallelProgramming\\ParallelProgramming.csproj|d:\\development_practice\\learning\\parallel_programming_in_c#\\advanceincsharp\\parallelprogramming\\statement\\fixed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B729B43-4BF4-4F4B-8AF9-B633297466D1}|ParallelProgramming\\ParallelProgramming.csproj|solutionrelative:parallelprogramming\\statement\\fixed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B729B43-4BF4-4F4B-8AF9-B633297466D1}|ParallelProgramming\\ParallelProgramming.csproj|d:\\development_practice\\learning\\parallel_programming_in_c#\\advanceincsharp\\parallelprogramming\\statement\\lock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B729B43-4BF4-4F4B-8AF9-B633297466D1}|ParallelProgramming\\ParallelProgramming.csproj|solutionrelative:parallelprogramming\\statement\\lock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B729B43-4BF4-4F4B-8AF9-B633297466D1}|ParallelProgramming\\ParallelProgramming.csproj|d:\\development_practice\\learning\\parallel_programming_in_c#\\advanceincsharp\\parallelprogramming\\statement\\refkeyword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B729B43-4BF4-4F4B-8AF9-B633297466D1}|ParallelProgramming\\ParallelProgramming.csproj|solutionrelative:parallelprogramming\\statement\\refkeyword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B729B43-4BF4-4F4B-8AF9-B633297466D1}|ParallelProgramming\\ParallelProgramming.csproj|d:\\development_practice\\learning\\parallel_programming_in_c#\\advanceincsharp\\parallelprogramming\\dataparallelism\\parallelfor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B729B43-4BF4-4F4B-8AF9-B633297466D1}|ParallelProgramming\\ParallelProgramming.csproj|solutionrelative:parallelprogramming\\dataparallelism\\parallelfor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassOverride.cs",
+              "DocumentMoniker": "D:\\Development_Practice\\Learning\\Parallel_Programming_In_C#\\AdvanceInCSharp\\ParallelProgramming\\OopsConcept\\Polymorphism\\ClassOverride.cs",
+              "RelativeDocumentMoniker": "ParallelProgramming\\OopsConcept\\Polymorphism\\ClassOverride.cs",
+              "ToolTip": "D:\\Development_Practice\\Learning\\Parallel_Programming_In_C#\\AdvanceInCSharp\\ParallelProgramming\\OopsConcept\\Polymorphism\\ClassOverride.cs",
+              "RelativeToolTip": "ParallelProgramming\\OopsConcept\\Polymorphism\\ClassOverride.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAtwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T18:24:01.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Operation.cs",
+              "DocumentMoniker": "D:\\Development_Practice\\Learning\\Parallel_Programming_In_C#\\AdvanceInCSharp\\ParallelProgramming\\OopsConcept\\OperartorOverload\\Operation.cs",
+              "RelativeDocumentMoniker": "ParallelProgramming\\OopsConcept\\OperartorOverload\\Operation.cs",
+              "ToolTip": "D:\\Development_Practice\\Learning\\Parallel_Programming_In_C#\\AdvanceInCSharp\\ParallelProgramming\\OopsConcept\\OperartorOverload\\Operation.cs",
+              "RelativeToolTip": "ParallelProgramming\\OopsConcept\\OperartorOverload\\Operation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T17:59:25.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IntOne.cs",
+              "DocumentMoniker": "D:\\Development_Practice\\Learning\\Parallel_Programming_In_C#\\AdvanceInCSharp\\ParallelProgramming\\OopsConcept\\ClassTypes\\IntOne.cs",
+              "RelativeDocumentMoniker": "ParallelProgramming\\OopsConcept\\ClassTypes\\IntOne.cs",
+              "ToolTip": "D:\\Development_Practice\\Learning\\Parallel_Programming_In_C#\\AdvanceInCSharp\\ParallelProgramming\\OopsConcept\\ClassTypes\\IntOne.cs",
+              "RelativeToolTip": "ParallelProgramming\\OopsConcept\\ClassTypes\\IntOne.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T17:46:59.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TypesOfClass.cs",
+              "DocumentMoniker": "D:\\Development_Practice\\Learning\\Parallel_Programming_In_C#\\AdvanceInCSharp\\ParallelProgramming\\OopsConcept\\ClassTypes\\TypesOfClass.cs",
+              "RelativeDocumentMoniker": "ParallelProgramming\\OopsConcept\\ClassTypes\\TypesOfClass.cs",
+              "ToolTip": "D:\\Development_Practice\\Learning\\Parallel_Programming_In_C#\\AdvanceInCSharp\\ParallelProgramming\\OopsConcept\\ClassTypes\\TypesOfClass.cs",
+              "RelativeToolTip": "ParallelProgramming\\OopsConcept\\ClassTypes\\TypesOfClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T17:36:42.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DictionaryPractice.cs",
+              "DocumentMoniker": "D:\\Development_Practice\\Learning\\Parallel_Programming_In_C#\\AdvanceInCSharp\\ParallelProgramming\\Statement\\DictionaryPractice.cs",
+              "RelativeDocumentMoniker": "ParallelProgramming\\Statement\\DictionaryPractice.cs",
+              "ToolTip": "D:\\Development_Practice\\Learning\\Parallel_Programming_In_C#\\AdvanceInCSharp\\ParallelProgramming\\Statement\\DictionaryPractice.cs",
+              "RelativeToolTip": "ParallelProgramming\\Statement\\DictionaryPractice.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwDIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T19:08:20.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ParallelFor.cs",
+              "DocumentMoniker": "D:\\Development_Practice\\Learning\\Parallel_Programming_In_C#\\AdvanceInCSharp\\ParallelProgramming\\DataParallelism\\ParallelFor.cs",
+              "RelativeDocumentMoniker": "ParallelProgramming\\DataParallelism\\ParallelFor.cs",
+              "ToolTip": "D:\\Development_Practice\\Learning\\Parallel_Programming_In_C#\\AdvanceInCSharp\\ParallelProgramming\\DataParallelism\\ParallelFor.cs",
+              "RelativeToolTip": "ParallelProgramming\\DataParallelism\\ParallelFor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T18:09:04.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RefKeyword.cs",
+              "DocumentMoniker": "D:\\Development_Practice\\Learning\\Parallel_Programming_In_C#\\AdvanceInCSharp\\ParallelProgramming\\Statement\\RefKeyword.cs",
+              "RelativeDocumentMoniker": "ParallelProgramming\\Statement\\RefKeyword.cs",
+              "ToolTip": "D:\\Development_Practice\\Learning\\Parallel_Programming_In_C#\\AdvanceInCSharp\\ParallelProgramming\\Statement\\RefKeyword.cs",
+              "RelativeToolTip": "ParallelProgramming\\Statement\\RefKeyword.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-30T08:52:54.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Lock.cs",
+              "DocumentMoniker": "D:\\Development_Practice\\Learning\\Parallel_Programming_In_C#\\AdvanceInCSharp\\ParallelProgramming\\Statement\\Lock.cs",
+              "RelativeDocumentMoniker": "ParallelProgramming\\Statement\\Lock.cs",
+              "ToolTip": "D:\\Development_Practice\\Learning\\Parallel_Programming_In_C#\\AdvanceInCSharp\\ParallelProgramming\\Statement\\Lock.cs",
+              "RelativeToolTip": "ParallelProgramming\\Statement\\Lock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-30T08:03:26.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Development_Practice\\Learning\\Parallel_Programming_In_C#\\AdvanceInCSharp\\ParallelProgramming\\Program.cs",
+              "RelativeDocumentMoniker": "ParallelProgramming\\Program.cs",
+              "ToolTip": "D:\\Development_Practice\\Learning\\Parallel_Programming_In_C#\\AdvanceInCSharp\\ParallelProgramming\\Program.cs*",
+              "RelativeToolTip": "ParallelProgramming\\Program.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-30T07:28:37.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IntTwo.cs",
+              "DocumentMoniker": "D:\\Development_Practice\\Learning\\Parallel_Programming_In_C#\\AdvanceInCSharp\\ParallelProgramming\\OopsConcept\\ClassTypes\\IntTwo.cs",
+              "RelativeDocumentMoniker": "ParallelProgramming\\OopsConcept\\ClassTypes\\IntTwo.cs",
+              "ToolTip": "D:\\Development_Practice\\Learning\\Parallel_Programming_In_C#\\AdvanceInCSharp\\ParallelProgramming\\OopsConcept\\ClassTypes\\IntTwo.cs",
+              "RelativeToolTip": "ParallelProgramming\\OopsConcept\\ClassTypes\\IntTwo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T17:47:12.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Fixed.cs",
+              "DocumentMoniker": "D:\\Development_Practice\\Learning\\Parallel_Programming_In_C#\\AdvanceInCSharp\\ParallelProgramming\\Statement\\Fixed.cs",
+              "RelativeDocumentMoniker": "ParallelProgramming\\Statement\\Fixed.cs",
+              "ToolTip": "D:\\Development_Practice\\Learning\\Parallel_Programming_In_C#\\AdvanceInCSharp\\ParallelProgramming\\Statement\\Fixed.cs",
+              "RelativeToolTip": "ParallelProgramming\\Statement\\Fixed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-30T07:47:46.725Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

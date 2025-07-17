@@ -1,0 +1,14 @@
+D:\Development_Practice\Learning\Parallel_Programming_In_C#\AdvanceInCSharp\ParallelProgramming\bin\Debug\net7.0\ParallelProgramming.exe
+D:\Development_Practice\Learning\Parallel_Programming_In_C#\AdvanceInCSharp\ParallelProgramming\bin\Debug\net7.0\ParallelProgramming.deps.json
+D:\Development_Practice\Learning\Parallel_Programming_In_C#\AdvanceInCSharp\ParallelProgramming\bin\Debug\net7.0\ParallelProgramming.runtimeconfig.json
+D:\Development_Practice\Learning\Parallel_Programming_In_C#\AdvanceInCSharp\ParallelProgramming\bin\Debug\net7.0\ParallelProgramming.dll
+D:\Development_Practice\Learning\Parallel_Programming_In_C#\AdvanceInCSharp\ParallelProgramming\bin\Debug\net7.0\ParallelProgramming.pdb
+D:\Development_Practice\Learning\Parallel_Programming_In_C#\AdvanceInCSharp\ParallelProgramming\obj\Debug\net7.0\ParallelProgramming.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development_Practice\Learning\Parallel_Programming_In_C#\AdvanceInCSharp\ParallelProgramming\obj\Debug\net7.0\ParallelProgramming.AssemblyInfoInputs.cache
+D:\Development_Practice\Learning\Parallel_Programming_In_C#\AdvanceInCSharp\ParallelProgramming\obj\Debug\net7.0\ParallelProgramming.AssemblyInfo.cs
+D:\Development_Practice\Learning\Parallel_Programming_In_C#\AdvanceInCSharp\ParallelProgramming\obj\Debug\net7.0\ParallelProgramming.csproj.CoreCompileInputs.cache
+D:\Development_Practice\Learning\Parallel_Programming_In_C#\AdvanceInCSharp\ParallelProgramming\obj\Debug\net7.0\ParallelProgramming.dll
+D:\Development_Practice\Learning\Parallel_Programming_In_C#\AdvanceInCSharp\ParallelProgramming\obj\Debug\net7.0\refint\ParallelProgramming.dll
+D:\Development_Practice\Learning\Parallel_Programming_In_C#\AdvanceInCSharp\ParallelProgramming\obj\Debug\net7.0\ParallelProgramming.pdb
+D:\Development_Practice\Learning\Parallel_Programming_In_C#\AdvanceInCSharp\ParallelProgramming\obj\Debug\net7.0\ParallelProgramming.genruntimeconfig.cache
+D:\Development_Practice\Learning\Parallel_Programming_In_C#\AdvanceInCSharp\ParallelProgramming\obj\Debug\net7.0\ref\ParallelProgramming.dll
