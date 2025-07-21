@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Development_Practice\\Learning\\Parallel_Programming_In_C#\\AdvanceInCSharp\\ParallelProgramming\\ParallelProgramming.csproj",
+      "projectUniqueName": "D:\\Interview Practice\\AdvanceCSharp\\CShapLeacture\\AdvanceInCSharp\\ParallelProgramming\\ParallelProgramming.csproj",
       "projectName": "ParallelProgramming",
-      "projectPath": "D:\\Development_Practice\\Learning\\Parallel_Programming_In_C#\\AdvanceInCSharp\\ParallelProgramming\\ParallelProgramming.csproj",
+      "projectPath": "D:\\Interview Practice\\AdvanceCSharp\\CShapLeacture\\AdvanceInCSharp\\ParallelProgramming\\ParallelProgramming.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "D:\\Development_Practice\\Learning\\Parallel_Programming_In_C#\\AdvanceInCSharp\\ParallelProgramming\\obj\\",
+      "outputPath": "D:\\Interview Practice\\AdvanceCSharp\\CShapLeacture\\AdvanceInCSharp\\ParallelProgramming\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

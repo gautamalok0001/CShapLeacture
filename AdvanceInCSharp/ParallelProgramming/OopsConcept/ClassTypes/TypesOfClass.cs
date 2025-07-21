@@ -22,6 +22,7 @@
     public partial class PartialClass
     {
         public void GetName() { }
+
     }
 
     
