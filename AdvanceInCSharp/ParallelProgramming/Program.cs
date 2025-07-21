@@ -37,7 +37,7 @@ public class Program
         AbstractClass abstractClass = new NormalClass();
 
         PartialClass partialClass = new PartialClass();
-        partialClass.
+
 
 
     }

@@ -1,0 +1,12 @@
+D:\Interview Practice\AdvanceCSharp\CShapLeacture\AdvanceInCSharp\CsharpTutorial\bin\Debug\net8.0\CsharpTutorial.deps.json
+D:\Interview Practice\AdvanceCSharp\CShapLeacture\AdvanceInCSharp\CsharpTutorial\bin\Debug\net8.0\CsharpTutorial.dll
+D:\Interview Practice\AdvanceCSharp\CShapLeacture\AdvanceInCSharp\CsharpTutorial\bin\Debug\net8.0\CsharpTutorial.pdb
+D:\Interview Practice\AdvanceCSharp\CShapLeacture\AdvanceInCSharp\CsharpTutorial\obj\Debug\net8.0\CsharpTutorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interview Practice\AdvanceCSharp\CShapLeacture\AdvanceInCSharp\CsharpTutorial\obj\Debug\net8.0\CsharpTutorial.AssemblyInfoInputs.cache
+D:\Interview Practice\AdvanceCSharp\CShapLeacture\AdvanceInCSharp\CsharpTutorial\obj\Debug\net8.0\CsharpTutorial.AssemblyInfo.cs
+D:\Interview Practice\AdvanceCSharp\CShapLeacture\AdvanceInCSharp\CsharpTutorial\obj\Debug\net8.0\CsharpTutorial.csproj.CoreCompileInputs.cache
+D:\Interview Practice\AdvanceCSharp\CShapLeacture\AdvanceInCSharp\CsharpTutorial\obj\Debug\net8.0\CsharpTutorial.sourcelink.json
+D:\Interview Practice\AdvanceCSharp\CShapLeacture\AdvanceInCSharp\CsharpTutorial\obj\Debug\net8.0\CsharpTutorial.dll
+D:\Interview Practice\AdvanceCSharp\CShapLeacture\AdvanceInCSharp\CsharpTutorial\obj\Debug\net8.0\refint\CsharpTutorial.dll
+D:\Interview Practice\AdvanceCSharp\CShapLeacture\AdvanceInCSharp\CsharpTutorial\obj\Debug\net8.0\CsharpTutorial.pdb
+D:\Interview Practice\AdvanceCSharp\CShapLeacture\AdvanceInCSharp\CsharpTutorial\obj\Debug\net8.0\ref\CsharpTutorial.dll

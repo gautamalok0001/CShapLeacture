@@ -11,7 +11,6 @@
 
   <ItemGroup>
     <Folder Include="OopsConcept\AbstractionAndInterfaces\" />
-    <Folder Include="OopsConcept\AccessModifier\" />
     <Folder Include="OopsConcept\Delegates\" />
   </ItemGroup>
 
